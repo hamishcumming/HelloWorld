@@ -1,2 +1,3 @@
 # HelloWorld
-Basic Hello World program
+
+This is a simple project that will output "Hello World" to the screen.
